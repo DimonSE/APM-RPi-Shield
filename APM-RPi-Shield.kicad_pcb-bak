@@ -3,7 +3,7 @@
   (general
     (links 128)
     (no_connects 2)
-    (area 143.374999 124.924999 180.825001 181.275001)
+    (area 143.424999 124.924999 180.825001 181.275001)
     (thickness 1.6)
     (drawings 7)
     (tracks 762)
@@ -1468,7 +1468,7 @@
   (gr_line (start 143.5 181.2) (end 180.75 181.2) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 180.75 181.2) (end 180.75 125) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 143.5 180.45) (end 143.5 181.2) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_circle (center 169 163) (end 170.5 163) (layer Eco2.User) (width 0.15))
+  (gr_circle (center 169 163) (end 170.5 163) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 143.5 125) (end 143.5 181) (angle 90) (layer Edge.Cuts) (width 0.15))
 
   (segment (start 145.76 127.73) (end 148.3 127.73) (width 0.2) (layer F.Cu) (net 1))
