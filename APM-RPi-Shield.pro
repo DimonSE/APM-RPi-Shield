@@ -1,4 +1,4 @@
-update=Sat 09 May 2015 18:51:13 EEST
+update=Tue 08 Sep 2015 11:19:27 AM PDT
 version=1
 last_client=kicad
 [general]
@@ -64,3 +64,14 @@ LibName30=valves
 LibName31=library/pca9685
 LibName32=library/conn_03x16
 LibName33=library/ads1115
+LibName34=library/ublox_neo6m
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
